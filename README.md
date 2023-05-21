@@ -139,4 +139,4 @@ Then, run the server and take a screenshot of your book cover page.
 
 
 ## Result:
-Write your result
+The cover page design is successfully created.
